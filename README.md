@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Aaryan 👋
 
 **Software Developer | MERN Stack Enthusiast | Fintech Passionate | Python Lover**
 
